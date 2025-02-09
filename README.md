@@ -11,7 +11,7 @@
 
 📫 How to reach me: You can find me on [link to relevant platform, maybe Twitter or a security-focused forum].  Let's connect and discuss all things AI and security!
 
-⚡ Fun fact: I once built an AI that could write poetry... about buffer overflows. 
+⚡ Fun fact: I currently have a massive project going on, cant share more now but watch this space.... 
 
 <!---
 Phantom-Bytes/Phantom-Bytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
